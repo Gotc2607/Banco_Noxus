@@ -101,7 +101,7 @@ class menu_interface(banco_de_dados2):
         else:
             self.adicionar_usuarios(Nusuario, Nsenha)
             self.salvar()
-            messagebox.showinfo('Usuario cadastrado com sucesso')
+            messagebox.showinfo('Sucesso','Usuario cadastrado com sucesso')
             self.tela_principal(Nusuario, Nsenha, 0.0)
 
     def tela_deposito(self):
