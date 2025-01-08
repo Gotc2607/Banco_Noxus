@@ -16,4 +16,4 @@
   -Saque: Também funciona como um banco comum não podendo sacar um valor maior do que voçê tem no banco
 
 -Execução 
-  Para a execução do projeto são necessarios os arquivos main, banco_de_dados e interface_banco, não os que estão dentro da pasta interface. Tendo eles numa mesma pasta basta rodar o arquivo main.
+  Para a execução do projeto são necessarios os arquivos main, banco_de_dados e interface_banco, não os que estão dentro da pasta interface. Tendo eles numa mesma pasta e mantendo o nome desses arquivos basta rodar o arquivo main
